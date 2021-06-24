@@ -18,4 +18,4 @@ Then I Make Sure The Converted Value Is Not Greater Than US 2000
 @teste3
 Scenario: Products Different Than The Searched Product Should Be Cheaper Than The Searched Product
 When I Find Products Which Are Not iPhone
-Then Make Sure All Found Products Are Cheaper Than The Cheapest iPhone
+Then Make Sure All Found Products Are Cheaper Than The Cheapest iPhone.
